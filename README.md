@@ -5,10 +5,10 @@ Please feel free to collaborate and propose new resources.
 
 
 ## Agile
-* [Agile Manifesto] (https://agilemanifesto.org/)
-* [Agile Principles] (https://agilemanifesto.org/principles.html)
-* Book [Extreme Programming Explained] (https://www.amazon.es/Extreme-Programming-Explained-Embrace-Embracing/dp/0321278658)
-* Book [The Nature of Software Development] (https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374)
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [Agile Principles](https://agilemanifesto.org/principles.html)
+- Book [Extreme Programming Explained](https://www.amazon.es/Extreme-Programming-Explained-Embrace-Embracing/dp/0321278658)
+- Book [The Nature of Software Development](https://www.amazon.es/Nature-Software-Development-Simple-Valuable/dp/1941222374)
 
 ## Good Practices
 ### Testing
